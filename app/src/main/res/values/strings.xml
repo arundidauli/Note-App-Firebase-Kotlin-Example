@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Note App Firebase Kotlin Example</string>
+    <string name="msg_no_notes">Note is empty!</string>
+    <string name="lbl_new_note_title">New Note</string>
+    <string name="hint_enter_note">Enter your Note!</string>
+    <string name="update_note">Edit note</string>
+</resources>

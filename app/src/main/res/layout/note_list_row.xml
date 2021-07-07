@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="-10dp"
+    android:layout_marginEnd="-10dp"
+    app:cardElevation="8sp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:id="@+id/rl_root"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/fab_margin"
+        android:paddingTop="@dimen/dimen_10"
+        android:paddingRight="@dimen/fab_margin"
+        android:paddingBottom="@dimen/dimen_10">
+
+
+        <ImageView
+            android:id="@+id/dot"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dot_height"
+            android:paddingTop="4dp"
+            android:paddingBottom="4dp"
+            android:src="@drawable/ic_baseline_auto_stories_24"
+            app:tint="@color/purple_200" />
+
+        <TextView
+            android:id="@+id/timestamp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_toEndOf="@id/dot"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="@string/app_name" />
+
+        <TextView
+            android:id="@+id/note"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/dot"
+            android:lineSpacingExtra="4sp"
+            android:textColor="@color/white"
+            android:justificationMode="inter_word"
+            android:text="@string/app_name"
+            android:textSize="@dimen/note_list_text" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

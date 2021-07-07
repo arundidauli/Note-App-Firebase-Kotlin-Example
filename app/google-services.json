@@ -1,0 +1,167 @@
+{
+  "project_info": {
+    "project_number": "194854264069",
+    "firebase_url": "https://globalgup-11322.firebaseio.com",
+    "project_id": "globalgup-11322",
+    "storage_bucket": "globalgup-11322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194854264069:android:e8d192929a99e12548ab6c",
+        "android_client_info": {
+          "package_name": "com.wing.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194854264069-j446pnor3mbfv839kp453kk3up4fvv7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wing.note",
+            "certificate_hash": "3797b5759b67660de1e2cf2f53f301dc14f22e60"
+          }
+        },
+        {
+          "client_id": "194854264069-8m3cqhdmufssf32qt61s43furcv32148.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAN1nehh4puK339vDFD5phXENOCjwCMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194854264069-8m3cqhdmufssf32qt61s43furcv32148.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194854264069:android:b184b803a37b533c48ab6c",
+        "android_client_info": {
+          "package_name": "com.wingshield.globalgup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194854264069-0s6oiauatijsd6cd72slf5147pcifv8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wingshield.globalgup",
+            "certificate_hash": "9deaf5a7e80d5e4a8368910a06059a7fed014e41"
+          }
+        },
+        {
+          "client_id": "194854264069-5mutapdj2c6kfqg85bf4pq9jubna7f6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wingshield.globalgup",
+            "certificate_hash": "560c48f6e285f23a38dcfd9e4479d81d2198c47c"
+          }
+        },
+        {
+          "client_id": "194854264069-8m3cqhdmufssf32qt61s43furcv32148.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAN1nehh4puK339vDFD5phXENOCjwCMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194854264069-8m3cqhdmufssf32qt61s43furcv32148.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194854264069:android:12f887c4d51b26e948ab6c",
+        "android_client_info": {
+          "package_name": "com.wingshield.technologies.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194854264069-1q2mnj14naod5m5f3tdi7pu77nup7b7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wingshield.technologies.firebase",
+            "certificate_hash": "560c48f6e285f23a38dcfd9e4479d81d2198c47c"
+          }
+        },
+        {
+          "client_id": "194854264069-8m3cqhdmufssf32qt61s43furcv32148.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAN1nehh4puK339vDFD5phXENOCjwCMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194854264069-8m3cqhdmufssf32qt61s43furcv32148.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194854264069:android:c614e4c5b9e69f6d48ab6c",
+        "android_client_info": {
+          "package_name": "com.wingshield.technologies.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194854264069-iatnuvt8fekoa1ud5mqrbeu8k963tvf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wingshield.technologies.myapplication",
+            "certificate_hash": "3797b5759b67660de1e2cf2f53f301dc14f22e60"
+          }
+        },
+        {
+          "client_id": "194854264069-8m3cqhdmufssf32qt61s43furcv32148.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAN1nehh4puK339vDFD5phXENOCjwCMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194854264069-8m3cqhdmufssf32qt61s43furcv32148.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
